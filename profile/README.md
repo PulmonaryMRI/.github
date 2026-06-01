@@ -19,18 +19,12 @@ image reconstruction algorithms, motion management strategies, pulse sequences, 
 
 | Repository | Description | Language | Reference |
 |---|---|---|---|
-| [imoco_recon](https://github.com/PulmonaryMRI/imoco_recon) | Iterative Motion Compensation (iMoCo) reconstruction for MRI | MATLAB / Python | [doi:10.1002/mrm.27998](https://doi.org/10.1002/mrm.27998) |
+| [imoco_recon](https://github.com/PulmonaryMRI/imoco_recon) | Iterative Motion Compensation (iMoCo) reconstruction for MRI | MATLAB & Python versions | [doi:10.1002/mrm.27998](https://doi.org/10.1002/mrm.27998) |
 | [MoCoLoR](https://github.com/PulmonaryMRI/MoCoLoR) | Motion-compensated low-rank reconstruction for simultaneous structural and functional UTE lung MRI | Python | [doi:10.1002/mrm.29703](https://doi.org/10.1002/mrm.29703) |
 | [pulmonary-MRI-reconstruction](https://github.com/PulmonaryMRI/pulmonary-MRI-reconstruction) | Tools for reconstructing pulmonary MRI datasets to manage motion | MATLAB | [doi:10.1002/mrm.26958](https://doi.org/10.1002/mrm.26958) |
-| [reproducibility](https://github.com/PulmonaryMRI/reproducibility) | Scripts for a pulmonary ventilation analysis reproducibility study using UTE lung MRI | Python | *(to be added)* |
-| [philips_recon](https://github.com/PulmonaryMRI/philips_recon) | Scripts for reconstructing pulmonary UTE MRI acquired on Philips scanners | Jupyter Notebook | *(to be added)* |
+| [reproducibility](https://github.com/PulmonaryMRI/reproducibility) | Scripts for a pulmonary ventilation analysis reproducibility study using UTE lung MRI | Python | [doi:10.1101/2023.10.22.563196](https://doi.org/10.1101/2023.10.22.563196) |
+| [philips_recon](https://github.com/PulmonaryMRI/philips_recon) | Scripts for reconstructing pulmonary UTE MRI acquired on Philips scanners | Jupyter Notebook | - |
 
-## 📄 Publications
-
-Key papers associated with our software:
-
-- iMoCo: [doi:10.1002/mrm.27998](https://doi.org/10.1002/mrm.27998)
-- MoCoLoR: [doi:10.1002/mrm.29703](https://doi.org/10.1002/mrm.29703)
 
 ## 🤝 Contributing
 
