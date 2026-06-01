@@ -17,13 +17,13 @@ image reconstruction algorithms, motion management strategies, pulse sequences, 
 
 ## 📦 Repositories
 
-| Repository | Description | Language |
-|---|---|---|
-| [imoco_recon](https://github.com/PulmonaryMRI/imoco_recon) | Iterative Motion Compensation (iMoCo) reconstruction for MRI | MATLAB / Python |
-| [MoCoLoR](https://github.com/PulmonaryMRI/MoCoLoR) | Motion-compensated low-rank reconstruction for simultaneous structural and functional UTE lung MRI | Python |
-| [pulmonary-MRI-reconstruction](https://github.com/PulmonaryMRI/pulmonary-MRI-reconstruction) | Tools for reconstructing pulmonary MRI datasets to manage motion | MATLAB |
-| [reproducibility](https://github.com/PulmonaryMRI/reproducibility) | Reproducibility tools and scripts | Python |
-| [philips_recon](https://github.com/PulmonaryMRI/philips_recon) | Reconstruction pipelines for Philips MRI systems | Jupyter Notebook |
+| Repository | Description | Language | Reference |
+|---|---|---|---|
+| [imoco_recon](https://github.com/PulmonaryMRI/imoco_recon) | Iterative Motion Compensation (iMoCo) reconstruction for MRI | MATLAB / Python | [doi:10.1002/mrm.27998](https://doi.org/10.1002/mrm.27998) |
+| [MoCoLoR](https://github.com/PulmonaryMRI/MoCoLoR) | Motion-compensated low-rank reconstruction for simultaneous structural and functional UTE lung MRI | Python | [doi:10.1002/mrm.29703](https://doi.org/10.1002/mrm.29703) |
+| [pulmonary-MRI-reconstruction](https://github.com/PulmonaryMRI/pulmonary-MRI-reconstruction) | Tools for reconstructing pulmonary MRI datasets to manage motion | MATLAB | [doi:10.1002/mrm.26958](https://doi.org/10.1002/mrm.26958) |
+| [reproducibility](https://github.com/PulmonaryMRI/reproducibility) | Scripts for a pulmonary ventilation analysis reproducibility study using UTE lung MRI | Python | *(to be added)* |
+| [philips_recon](https://github.com/PulmonaryMRI/philips_recon) | Scripts for reconstructing pulmonary UTE MRI acquired on Philips scanners | Jupyter Notebook | *(to be added)* |
 
 ## 📄 Publications
 
